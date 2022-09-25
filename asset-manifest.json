@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b761b739.css",
+    "main.js": "/static/js/main.79f23790.js",
+    "static/media/осень.jpg": "/static/media/осень.0442ed808487028f81c1.jpg",
+    "static/media/лето.jpg": "/static/media/лето.be53c9bae8ef65d49f69.jpg",
+    "static/media/зима.jpg": "/static/media/зима.2241f7999c33a8563d1f.jpg",
+    "static/media/весна.jpg": "/static/media/весна.4a44c458299402b508ee.jpg",
+    "static/media/vkontakte.svg": "/static/media/vkontakte.7bd59161fb369ddc83cc6552097b13e1.svg",
+    "static/media/telegram.svg": "/static/media/telegram.db27d2f9914c463f408c68e77a112a75.svg",
+    "static/media/cart.svg": "/static/media/cart.caf6b7428a16a4916ffb.svg",
+    "static/media/cartItem.svg": "/static/media/cartItem.c3b466f51641c238a464efcaaee70ebf.svg",
+    "static/media/instagram.svg": "/static/media/instagram.4dc8e8ad2c7ba338ec230a4f19395732.svg",
+    "index.html": "/index.html",
+    "static/media/gsv.svg": "/static/media/gsv.448d812f81a5d4bb1ae4f2733071a7d7.svg",
+    "static/media/vsv.svg": "/static/media/vsv.05240a375cc0e884217d8506aea6f0d5.svg",
+    "static/media/vbv.svg": "/static/media/vbv.44bb3d3707702df59ff10447368e4d35.svg",
+    "static/media/gbv.svg": "/static/media/gbv.19b5036a4bc9be072e5839bb44b3dd15.svg",
+    "static/media/pluse.svg": "/static/media/pluse.ff4b064e5dd4dbda105bb69fb16026ac.svg",
+    "static/media/minuse.svg": "/static/media/minuse.9a74f9378197684b8a9875a87b877980.svg",
+    "main.b761b739.css.map": "/static/css/main.b761b739.css.map",
+    "main.79f23790.js.map": "/static/js/main.79f23790.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b761b739.css",
+    "static/js/main.79f23790.js"
+  ]
+}
